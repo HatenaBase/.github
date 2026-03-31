@@ -21,12 +21,12 @@
 | リポジトリ | 部門 | 説明 |
 |-----------|------|------|
 | [hatena-itsys](https://github.com/HatenaBase/hatena-itsys) | 情シス | kintone・IT資産管理 |
-| hatena-sales | 営業 | 営業リスト・メール自動化・案件管理 |
-| hatena-hr | 人事 | 採用・組織マネジメント |
-| hatena-ga | 総務 | 総務業務管理 |
-| hatena-dx | DX事業部 | DX案件・外注管理 |
-| hatena-ac | 会計コンサルティング事業部 | 会計案件管理 |
-| hatena-training | 研修事業部 | 研修コンテンツ・案件管理 |
+| [hatena-sales](https://github.com/HatenaBase/hatena-sales) | 営業 | 営業リスト・メール自動化・案件管理 |
+| [hatena-hr](https://github.com/HatenaBase/hatena-hr) | 人事 | 採用・組織マネジメント |
+| [hatena-ga](https://github.com/HatenaBase/hatena-ga) | 総務 | 総務業務管理 |
+| [hatena-dx](https://github.com/HatenaBase/hatena-dx) | DX事業部 | DX案件・外注管理 |
+| [hatena-ac](https://github.com/HatenaBase/hatena-ac) | 会計コンサルティング事業部 | 会計案件管理 |
+| [hatena-training](https://github.com/HatenaBase/hatena-training) | 研修事業部 | 研修コンテンツ・案件管理 |
 
 > 各リポジトリへのアクセスは権限のあるメンバーのみ可能です。
 
