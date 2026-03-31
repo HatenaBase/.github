@@ -4,31 +4,26 @@
 
 ---
 
-## 事業内容
+## 私たちについて
 
-| 事業 | 概要 |
-|------|------|
-| **研修事業** | DXリテラシーから実践スキルまで体系的な研修プログラムを提供。最大75%助成金対応、月額7,500円〜 |
-| **DX推進支援** | kintone・freee導入支援、AIワークフロー構築。業務時間最大25%削減の実績あり |
-| **AI開発支援** | 総合商社・プライム上場企業へのAI開発支援実績。業務特化型AIの設計・実装・運用まで対応 |
+株式会社はてなベースは、企業のDX推進・人材育成・業務効率化を一気通貫で支援するテクノロジー企業です。
+中小〜大手企業まで、現場に寄り添った伴走支援を強みとしています。
 
 ---
 
-## リポジトリ構成
+## 事業内容
 
-このOrganizationは部門ごとに独立したプライベートリポジトリで管理されています。
+### 研修事業
+DXリテラシーから実践スキルまで体系的な研修プログラムを提供。
+最大75%の助成金活用により、月額7,500円〜で導入可能。入社半年でプロジェクトマネージャーに昇進した実績も。
 
-| リポジトリ | 部門 | 説明 |
-|-----------|------|------|
-| [hatena-itsys](https://github.com/HatenaBase/hatena-itsys) | 情シス | kintone・IT資産管理 |
-| [hatena-sales](https://github.com/HatenaBase/hatena-sales) | 営業 | 営業リスト・メール自動化・案件管理 |
-| [hatena-hr](https://github.com/HatenaBase/hatena-hr) | 人事 | 採用・組織マネジメント |
-| [hatena-ga](https://github.com/HatenaBase/hatena-ga) | 総務 | 総務業務管理 |
-| [hatena-dx](https://github.com/HatenaBase/hatena-dx) | DX事業部 | DX案件・外注管理 |
-| [hatena-ac](https://github.com/HatenaBase/hatena-ac) | 会計コンサルティング事業部 | 会計案件管理 |
-| [hatena-training](https://github.com/HatenaBase/hatena-training) | 研修事業部 | 研修コンテンツ・案件管理 |
+### DX推進支援
+kintone・freee等のツール導入支援から業務フロー設計まで、開発・実装を含めてワンストップで対応。
+大手ベンダー品質 × 中小価格 × 高スピードを実現。
 
-> 各リポジトリへのアクセスは権限のあるメンバーのみ可能です。
+### AI業務効率化・AI開発
+業務時間を最大25%削減するAIワークフロー構築。
+総合商社・プライム上場企業へのAI開発支援実績あり。
 
 ---
 
